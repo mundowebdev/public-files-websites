@@ -1,15 +1,16 @@
-const url = 'https://raw.githubusercontent.com/mundowebdev/public-files-websites/main/pizzaria-lopes/json/menu-pizza-list.json';
+const listPizza = () => {
+    const url = 'https://raw.githubusercontent.com/mundowebdev/public-files-websites/main/pizzaria-lopes/json/menu-pizza-list.json';
 
-fetch(url)
-    .then((response) => response.json())
-    .then((data) => {
+    fetch(url)
+        .then((response) => response.json())
+        .then((data) => {
 
-        data.map((data) => {
-            const getCardapioMain = document.querySelector(".cardapio-block-main");
-            const newElement = document.createElement('div');
-            newElement.classList.add('cardapio-block');
+            data.map((data) => {
+                const getCardapioMain = document.querySelector(".cardapio-block-main");
+                const newElement = document.createElement('div');
+                newElement.classList.add('cardapio-block');
 
-            newElement.innerHTML = `
+                newElement.innerHTML = `
                 <img src="${data.img}" alt="Pizza de ${data.name}" />
                 <h3>${data.name}</h3>
                 <p class="item-desc">${data.desc}</p>
@@ -18,10 +19,11 @@ fetch(url)
                     <p class="preco">R$ ${data.price.large}</p>
                 </div>`;
 
-            getCardapioMain.appendChild(newElement);
-        })
+                getCardapioMain.appendChild(newElement);
+            })
 
-    })
-    .catch(function (error) {
-        console.log(error);
-    });
+        })
+        .catch(function (error) {
+            console.log(error);
+        });
+}
