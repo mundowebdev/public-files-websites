@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mussarela",
+        "desc": "Saboroso queijo mussarela servido sobre molho de tomate especial, suculentas azeitonas verdes e orêgano.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRYc3rClXdjczFYIpbzM0uGy-9e-5xlDxGSviYpGGWRCk8dg1bWNB6Oxqy_ZK3p7bTZ_3KZhUEhscwExExvJjhM2YEURTAeA_-b7hT60nObxs0dPoEhuwX2_aawuERDo55SW-_WPOTxHSam_quTNMRXCIBHhr20biZikbyfLulxBXyeQIJ9vgbRIob/s1600/mussarela.jpg",
+        "price": {
+            "large": "19,00",
+            "medium": "14,00"
+        }
+    },
+    {
+        "name": "Calabresa",
+        "desc": "Deliciosas fatias de calabresa acompanhadas de cebola, azeitonas verdes e queijo mussarela sobre o molho de tomate especial.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4T7DRbVzEfUw2KAZwpFR3E9jhwIA5BvDHfAVY_gkeyqlLjFYxAlEPYATqGBGFavtzXBTqnOK8cNyzFyiAsU-YGGauRthfvg8UZPVQp96idphmwbomleLNZ17jGg2luNA2QN92Jv2qLm0_aS_PoZPVmt5R5F9lqBed_8cCqpqSDerjfuaehnbz11J6/s1600/calabresa.jpg",
+        "price": {
+            "large": "22,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Frango com Catupiry",
+        "desc": "Molho de tomate especial, frango desfiado sobre o queijo mussarela, além de catupiry e orêgano.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQHeoxnlUqj6_jAz6C2iKKteRADc24PTQA-B9msuM3LpgvNAx3SbneTpjey5_PXdHPKIF7rMe1Jd_AWgDUpWZ4BJyfwoZx3qJB33b08EISWU3sXlufYbdwfLHf83m7gtzAuXRoXdMKm23jTYi8fO9tmhdtE-uC7g9uI59iYrbrERh49xWPSjO5Svv/s1600/frango-catupiry.jpg",
+        "price": {
+            "large": "22,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Frango com Bacon",
+        "desc": "Molho de tomate especial, frango desfiado sobre o queijo mussarela e saborosos pedaços de bacon.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja7p0_6BvdeyBKQICMw2g08NiFLkh83E4dDthx5xU-UELMCp7FEp-StgZcxNfIlJ-dc3xq_Hlc63YdfHVtVhwm96EUWekfYdUdGGGda5ToLNZ61rO-1Gddc4AIPCy2h8CwCDA3TKQRceda-sAJ2TApvQF93d2G_OtfuxA-pR4Xt_oGpJT-oQCtOMnR/s1600/frango-com-bacon.jpg",
+        "price": {
+            "large": "23,00",
+            "medium": "17,00"
+        }
+    }
+]
