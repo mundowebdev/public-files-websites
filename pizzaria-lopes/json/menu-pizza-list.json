@@ -34,5 +34,77 @@
             "large": "23,00",
             "medium": "17,00"
         }
+    },
+    {
+        "name": "Atum",
+        "desc": "Molho de tomate especial, atum, rodelas de cebola, tomate e pimentão sobre o queijo mussarela.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbSg6arZkQcuwq4x_jUa_29PquZFCEMUnClPSyB6Uz71xyGWaiEdye4nuABVFwmlylrKuXCSogaEHv0jdciAh8zPk1mQmtGClYNxygnYwv29qWoevcOT5oehVmvrNbUgMzD7AeG2DZJdwAIUa894aYrxXp6deL1Y_5tMBABBvNLkzudp76pqDWdDMw/s1600/pizza-de-atum.jpg",
+        "price": {
+            "large": "23,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Portuguesa",
+        "desc": "Queijo mussarela servido sobre molho de tomate especial, presunto, ovos, calabresa, tomate, cebola e pimentão.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaVJvnkDz9AquXx3_jfbnUQD-55Ehj2OI5995uz1CSi50SKZCuTITBypZ20u2oT7kB3g4X69a0p1ewwR-snHZzPiTD61F4KG5UX3LlypRkFfP79nHNgdU3y9KD5nmNI9vx4s587u9s2CyPGaFoEi6DY9l4LeGTNHlnZM19MnFYa02PFoCWhVx80ul/s1600/portuguesa.jpg",
+        "price": {
+            "large": "24,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Nordestina",
+        "desc": "Queijo mussarela servido sobre molho de tomate especial, charque, fatias de tomate e cebola, e azeitonas verdes.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglXxOC_iVOFGDhzGvmNIE5bdtox5SevyOPWEZdjVdM7AGMV16hamZ-zWrt1tvHji1moRV__8-eeMDbunbu3UYsyUode3Dr8Gr--bDh1zfhB5XdcMdWs0gj5UIkCa4eq0FdyqZdUiMpvZhKFAqEHgUKsMepRlUAGURWqQFJsm76zg4cm-uBjYNBPvvY/s1600/nordestina.jpg",
+        "price": {
+            "large": "23,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Camarão",
+        "desc": "Queijo mussarela servido sobre molho de tomate especial, saborosos camarões e queijo catupiry.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik848B9ULX9LSKiyVrEznqW_hJy_OKJRkc38ns4zwaz9hpjZk5aAzNYjKyU1KLr0Ri5g0bucWJo08W3vnkBB0ah752R1pZl2m4X0y151mOmdjceGSXAOQmm5iyxdYtP9rOv7D-lHVRVboOQ3F0XoEEqi5Mdy2nJmvpV-D1puQwJNTFlOeiuXyUMTEj/s1600/pizza-camarao.jpg",
+        "price": {
+            "large": "30,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Presunto",
+        "desc": "Molho de tomate especial, queijo mussarela, saboroso presunto e rodelas de tomate e cebola.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-K4z3vjqvZNDJrCdASo1QodZ_7JOFkSWWPl2AotoTFS3yiuXF4C_sBzp4vyflX_YPeJcrNLdoKPX9-MR6_2StIX2zTuAt-SJPLpOpAgW1fCSUxt4hMkiL_I8iNgrdqfzsS5bglObRpcC9byG_rA81foglhQsiZV-FtG4MXV03IDEi3nUT29hCQTVS/s1600/pizza-presunto.jpg",
+        "price": {
+            "large": "22,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Romeu e julieta",
+        "desc": "Delicioso queijo mussarela servido com um saboroso doce de goiaba e queijo catupiry.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYOtfPrX54gCuLdPbRO-jUjX1Wf62C2xR3RQP97m2lnFhNT5gCC7Sv7p5gxxNGerOUX6wlnMpQY86eg4g0hFdiCmkXnt9kdCiVvCiRmMbG3s7tKYts2bZhaQHVltDfxlwQhqrUFpu_k22S1hnGz1NRttfcw6xFqC7qHOcWhuPLRRTv-a3pF7fqyiv/s1600/pizza-romeu-julieta.jpg",
+        "price": {
+            "large": "22,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "Cartola",
+        "desc": "Delicioso queijo mussarela acompanhado de saborosas rodelas de banana, canela e açúcar.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLrVHVXZetAsyl-hT6OjJxZFusXp69-0ySGNz5SDytihEKcjXK7jYXWRWAWy41o1wqHayGHHACvpOM6Vnkzp1SrhoJK2c2Gf4cD9rQW-5O53vr_qUkVQ0n079nFgo82Odn4xZtE-PpL-KqwtRRU1mwX3HWjrFNwl4wN-74i82JGbhA-zEPWg6A4-9D/s1600/pizza-cartola.jpg",
+        "price": {
+            "large": "22,00",
+            "medium": "17,00"
+        }
+    },
+    {
+        "name": "4 Queijos",
+        "desc": "Molho de tomate especial, queijo mussarela, queijo coalho, queijo catupiry e queijo parmesão.",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf8DdX83d3EUE8LfQf2F8Z_mTMKRU5gpn-Oq3TPXS2kdJKKrA42H-qlmHoUQdjoLsfnjpIraNSZOCeWkTa6NJ-XCeOIErWp5O-F9u3JSV3vqrhVLid6BVQ9DD4xA_7PGYtDrDlBxUE2x7j2YEmlsux_z1-QMYyWGDfHEu2lJ4_BKASfd_eYZgicZPb/s1600/pizza-4-queijos.jpg",
+        "price": {
+            "large": "22,00",
+            "medium": "17,00"
+        }
     }
 ]
